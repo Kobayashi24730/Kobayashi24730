@@ -1,74 +1,81 @@
 <div align="center">
-<h1>Olá, eu sou o Guilherme — Kobayashi 👋</h1>
-  <p><strong>Desenvolvedor Full Stack · AI Product</strong></p>
-  <p>
-    Construo produtos digitais, APIs e experiências web escaláveis — conectando engenharia de software, dados e inteligência artificial.
-  </p>   <p>
-    <a href="https://br.linkedin.com/in/guilherme-silva-9253a835">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/guilherme_24730">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://Kobayashi24730Dev.com">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="mailto:guisato.acdc@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
-    </a>
-  </p>
+  <h1>👋 Olá, eu sou o Guilherme Silva!</h1>
+  <p><b>Desenvolvedor Full-stack | E-commerce • Dashboards • Integrações com IA</b></p>
+
+  <a href="https://linkedin.com/in/guilherme-silva-9253a8354" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:guisato.acdc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
+
+<br/>
+
+### 🚀 Sobre Mim
+
+Sou um **Desenvolvedor Full-stack** apaixonado por criar soluções digitais robustas e escaláveis. Com foco especial em **E-commerce**, **Sistemas Web** e **Integrações com IA**, busco transformar ideias complexas em experiências fluidas e eficientes.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🎯 Objetivo: Evoluir para **Engenheiro de Software**.
+- 💡 Especialista em: Shopify, Laravel, Next.js e Dashboards inteligentes.
+- 🚗 Interesses: Engenharia automotiva e música pop.
 
 ---
 
-## Sobre mim
+### 🛠️ Tech Stack
 
-- Desenvolvedor Full Stack com experiência em aplicações web, mobile e serviços backend.
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- Interessado em **produtos com IA**, automação, arquitetura de software e experiências centradas no usuário.
+**Backend & Database**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- Trabalho da definição do produto à implementação, integração, testes e entrega.
+**Infra & Tools**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- Sempre aprendendo e transformando ideias em soluções simples, úteis e escaláveis.
+---
 
-## Principais áreas
-
-| Área | Tecnologias e práticas |
-| --- | --- |
-| **Frontend & Mobile** | React, Next.js, Vue, Nuxt, React Native, Flutter, TypeScript, JavaScript, HTML, CSS, Tailwind, Sass e Redux |
-| **Backend & APIs** | Node.js, Express, NestJS, Java, Spring, C#, .NET, PHP, Laravel, Python, Django, GraphQL e RabbitMQ |
-| **Dados & Cloud** | PostgreSQL, MySQL, MongoDB, SQL Server, SQLite, MariaDB, Firebase, AWS, Azure e Google Cloud |
-| **IA & Ferramentas** | TensorFlow, Pandas, Docker, Git, Bash, Linux, Postman e Figma |
-
-## O que estou explorando
-
-- Produtos digitais orientados por IA e automações inteligentes.
-
-- Arquiteturas robustas para APIs, integrações e sistemas distribuídos.
-
-- Boas práticas de engenharia: código sustentável, observabilidade, segurança e entrega contínua.
-
-## Estatísticas do GitHub
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kobayashi24730&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobayashi24730&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>   
- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kobayashi24730&theme=tokyonight" alt="Sequência de commits" />
-</div>
-
-## Troféus
+### 📌 Repositório em Destaque
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kobayashi24730&theme=tokyonight&no-frame=true&column=7" alt="Troféus do GitHub" />
+  <a href="https://github.com/Kobayashi24730/lp-clear-white">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kobayashi24730&repo=lp-clear-white&theme=darcula&show_owner=true" alt="Repo Destaque" />
   </a>
 </div>
 
 ---
 
+### 📊 Estatísticas do GitHub
+
 <div align="center">
-<p><strong>Vamos construir algo interessante juntos?</strong></p>
-  <a href="mailto:guisato.acdc@gmail.com">Entre em contato</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kobayashi24730&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&hide_border=false" alt="Estatísticas do GitHub" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kobayashi24730&theme=darcula&layout=compact&langs_count=8&hide_border=false" alt="Linguagens Mais Usadas" height="175" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kobayashi24730&theme=darcula&hide_border=false" alt="Sequência de Commits" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kobayashi24730&icon=0&color=0" alt="Contador de Visitas" />
 </div>
