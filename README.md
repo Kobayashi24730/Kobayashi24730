@@ -93,3 +93,7 @@ Sou um **Desenvolvedor Full-stack** apaixonado por criar soluções digitais rob
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Kobayashi24730/Kobayashi24730/snake-output/snake.svg" />
   </picture>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kobayashi24730&theme=github-compact&hide_border=true" alt="Gráfico de atividade no GitHub" />
+</div>
