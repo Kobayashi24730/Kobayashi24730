@@ -83,6 +83,10 @@ Sou um **Desenvolvedor Full-stack** apaixonado por criar soluções digitais rob
   <img src="https://streak-stats.demolab.com/?user=Kobayashi24730&theme=light&background=ffffff&ring=2563eb&fire=2563eb&currStreakNum=1e293b&border=e2e8f0" alt="Sequência de Commits" />
 </div>
 
+<div align="center">
+  <img src="https://readme-activity-graph-azure.vercel.app/graph?username=Kobayashi24730&theme=github-compact&hide_border=true" alt="Gráfico de atividade no GitHub" />
+</div>
+
 <br clear="both">
 
 <!-- Animação Snake configurada para seu perfil -->
