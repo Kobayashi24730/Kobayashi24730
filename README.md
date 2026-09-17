@@ -87,5 +87,9 @@ Sou um **Desenvolvedor Full-stack** apaixonado por criar soluções digitais rob
 
 <!-- Animação Snake configurada para seu perfil -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kobayashi24730/Kobayashi24730/snake-output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kobayashi24730/Kobayashi24730/snake-output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Kobayashi24730/Kobayashi24730/snake-output/snake.svg" />
+  </picture>
 </div>
