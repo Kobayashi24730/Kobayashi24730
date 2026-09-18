@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Guilherme Silva!</h1>
-  <p><b>Desenvolvedor Full-stack | E-commerce • Dashboards • Integrações com IA</b></p>
+  <p><b>Desenvolvedor Full Stack & AI Engineer</b></p>
 
   <a href="https://linkedin.com/in/guilherme-silva-9253a8354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,12 +22,12 @@
 <br/>
 
 ### 🚀 Sobre Mim
-
-Sou um **Desenvolvedor Full-stack** apaixonado por criar soluções digitais robustas e escaláveis. Com foco especial em **E-commerce**, **Sistemas Web** e **Integrações com IA**, busco transformar ideias complexas em experiências fluidas e eficientes.
+Especialista no ecossistema PHP (Laravel) e TypeScript (Next.js / Node.js). Construo soluções web escaláveis, sistemas inteligentes e rotinas de alto desempenho.
+Sou um **Desenvolvedor Full Stack & AI Engineer** apaixonado por criar soluções digitais robustas e escaláveis. Com foco especial em **CRM**, **Sistemas Web** e **Integrações com IA**, busco transformar ideias complexas em experiências fluidas e eficientes.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 - 🎯 Objetivo: Evoluir para **Engenheiro de Software**.
-- 💡 Especialista em: Shopify, Laravel, Next.js e Dashboards inteligentes.
+- 💡 Especialista em: Laravel, Next.js, React, Java(Spring Boot)
 - 🚗 Interesses: Engenharia automotiva e música pop.
 
 ---
